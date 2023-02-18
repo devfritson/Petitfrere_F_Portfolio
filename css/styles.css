@@ -1,5 +1,6 @@
 body{
-    background-color: rosybrown;
+    background-color: black;
+    color: wheat;
 }
 
 hr{
@@ -11,7 +12,6 @@ hr{
     height: 0px;
 }
 
-
 #Dark_Logo{
     height: 255px;
     width: 250px;
@@ -20,4 +20,8 @@ hr{
 #CompTIA_A_Plus{
     height: 55px;
     width: 55px;
+}
+
+h3{
+    color: wheat;
 }
