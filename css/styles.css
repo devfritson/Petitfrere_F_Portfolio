@@ -11,7 +11,13 @@ hr{
     height: 0px;
 }
 
-img{
+
+#Dark_Logo{
     height: 255px;
     width: 250px;
+}
+
+#CompTIA_A_Plus{
+    height: 55px;
+    width: 55px;
 }
