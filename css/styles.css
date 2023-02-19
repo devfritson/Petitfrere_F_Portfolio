@@ -88,7 +88,7 @@ img{
 }
 
 .board-image{
-    float: left;
+    float: right;
     width: 25%;
     
 }
@@ -102,9 +102,17 @@ img{
 }
 
 .exp-text{
-    text-align: left;
+    text-align: auto;
     line-height: 2;
     margin-left: 200px;
+    
+}
+
+.exp-text1{
+    text-align: left;
+    line-height: 2;
+    margin-right: 200px;
+    
 }
 
 .Skills-Certificates{
