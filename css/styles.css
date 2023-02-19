@@ -12,6 +12,7 @@ hr{
     border-width: 8px;
     width: 10%;
     height: 0px;
+    margin: 100px auto;
 }
 
 h1{
@@ -41,7 +42,7 @@ h3{
 p{
     margin-top: 0px;
     color: wheat;
-
+    line-height: 2;
 }
 img{
     padding: 10px;
@@ -114,7 +115,6 @@ img{
 
 .exp-text{
     text-align: auto;
-    line-height: 2;
     margin-left: 200px;
     
 }
