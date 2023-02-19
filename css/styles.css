@@ -90,14 +90,21 @@ img{
 .board-image{
     float: left;
     width: 25%;
+    
 }
 .welcome-text{
     text-align: left;
     line-height: 2;
 }
+
+.position-held{
+    margin-left: 200px;
+}
+
 .exp-text{
     text-align: left;
     line-height: 2;
+    margin-left: 200px;
 }
 
 .Skills-Certificates{
