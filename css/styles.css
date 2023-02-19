@@ -28,6 +28,7 @@ h2{
 h3{
     font-family: 'Montserrat', sans-serif;
     color: red;
+    margin-top: 55px;
 }
 p{
     margin-top: 0px;
@@ -40,6 +41,7 @@ img{
 
 .Work_Experience-row{
     margin: 0 0 0 0;
+    margin-top: 80px;
 }
 
 .Work_Experience{
@@ -79,12 +81,23 @@ img{
     border: none;
 
 }
+.network-image{
+    float: left;
+    width: 25%;
 
+}
+
+.board-image{
+    float: left;
+    width: 25%;
+}
 .welcome-text{
     text-align: left;
+    line-height: 2;
 }
 .exp-text{
     text-align: left;
+    line-height: 2;
 }
 
 .Skills-Certificates{
