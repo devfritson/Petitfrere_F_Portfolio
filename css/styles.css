@@ -5,6 +5,7 @@ body{
     background-color: #181823;
 }
 
+
 hr{
     border-style: none;
     border-top: dotted;
@@ -78,7 +79,7 @@ img{
 
 .bottom-container{
     background-color: black;
-    padding-top: 40px;
+    
 }
 
 .copyright{
@@ -86,12 +87,24 @@ img{
     font-size: 0.75rem;
 }
 
+.Motto{
+    position: absolute;
+    bottom: 55%;
+    color: #f70000;
+    font-family: 'Sacamento', cursive;
+    font-size: 1.2rem;
+}
 .Work_Experience{
     width: 50%;
     margin: 0 auto 0 auto;
     margin-bottom: 0;
 }
 
+.bars{
+    position: absolute;
+    left: 0;
+    width: 18%;
+}
 
 .btn {
     background: #192126;
