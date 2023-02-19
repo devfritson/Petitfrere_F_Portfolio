@@ -5,23 +5,24 @@ body{
     background-color: black;
 }
 
-title{
-    color: red;
-}
 
 
 h1{
 
+    margin-top: 50px;
     font-family: 'Sacramento', cursive;
     margin: auto 0 auto 0;
     color: wheat;
     font-size: 5.625rem;
     
-    
 }
+
+
 h2{
     font-family: 'Montserrat', sans-serif;
     color: red;
+    margin-top: 0px;
+    font-weight: normal;
 }
 
 h3{
@@ -37,12 +38,13 @@ img{
     padding: 10px;
 }
 
-.Aboutme{
-    color: red;
+.Work_Experience{
+    width: 50%;
+    margin: 0 auto 0 auto;
 }
 
 .job-description{
-    font-size: 2.5rem;
+    font-size: 2.5;
     color: red;
 }
 
@@ -57,6 +59,10 @@ img{
     margin-bottom: 0px;
 }
 
+.Aboutme{
+    color: red;
+}
+
 
 .top-cloud{
     position: absolute;
@@ -66,6 +72,17 @@ img{
     width: 120px;
     border: none;
 
+}
+.Skills-Certificates{
+    margin: 0 auto 0 auto;
+}
+
+.skills-table{
+    margin: 0 auto 0 auto;
+}
+
+.cert-table{
+    margin: 0 auto 0 auto;
 }
 
 .bottom-server{
@@ -89,15 +106,8 @@ img{
     width: 120px;
 }
 
-/*.middle-container{
-
-}
 
 
-.bottom-container{
-
-}
-*/
 .pro{
     text-decoration: underline;
 }
@@ -108,6 +118,7 @@ img{
     margin: 0 auto ;
     position: absolute;
 }
+
 
 #Contact-Message-Box{
     height: 399px;
