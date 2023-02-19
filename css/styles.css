@@ -21,7 +21,7 @@ h1{
 h2{
     font-family: 'Montserrat', sans-serif;
     color: red;
-    margin-top: 0px;
+    margin-top: 40px;
     font-weight: normal;
 }
 
@@ -38,14 +38,20 @@ img{
     padding: 10px;
 }
 
+.Work_Experience-row{
+    margin: 0 0 0 0;
+}
+
 .Work_Experience{
     width: 50%;
     margin: 0 auto 0 auto;
+    margin-bottom: 0;
 }
 
 .job-description{
     font-size: 2.5;
     color: red;
+    margin: 0 auto 0 auto;
 }
 
 .top-container{
@@ -74,15 +80,15 @@ img{
 
 }
 .Skills-Certificates{
-    margin: 0 auto 0 auto;
+    margin: 40px auto 40px auto;
 }
 
 .skills-table{
-    margin: 0 auto 0 auto;
+    margin: 40px auto 40px auto;
 }
 
 .cert-table{
-    margin: 0 auto 0 auto;
+    margin: 40px auto 40px auto;
 }
 
 .bottom-server{
