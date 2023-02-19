@@ -79,6 +79,14 @@ img{
     border: none;
 
 }
+
+.welcome-text{
+    text-align: left;
+}
+.exp-text{
+    text-align: left;
+}
+
 .Skills-Certificates{
     margin: 40px auto 40px auto;
 }
