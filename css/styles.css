@@ -107,3 +107,8 @@ img{
     margin: 0 auto ;
     position: absolute;
 }
+
+#Contact-Message-Box{
+    height: 399px;
+    width: 989px;
+}
