@@ -45,10 +45,15 @@ p{
     color: wheat;
     line-height: 2;
 }
+a:hover{
+    color:#f70000;
+}
 
 a{
     color: #181823;
     font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px 10px 20px;
+    text-decoration: none;
 }
 
 img{
@@ -76,6 +81,10 @@ img{
     padding-top: 40px;
 }
 
+.copyright{
+    color: #f70000;
+    font-size: 0.75rem;
+}
 
 .Work_Experience{
     width: 50%;
