@@ -45,6 +45,12 @@ p{
     color: wheat;
     line-height: 2;
 }
+
+a{
+    color: #181823;
+    font-family: 'Montserrat', sans-serif;
+}
+
 img{
     padding: 10px;
 }
