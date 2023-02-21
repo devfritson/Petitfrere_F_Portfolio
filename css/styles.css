@@ -3,6 +3,7 @@ body{
     margin: 0 auto;
     text-align: center;
     background-color: #181823;
+    
 }
 
 
@@ -62,7 +63,7 @@ img{
 }
 
 .Work_Experience-row{
-    margin: 0 0 0 0;
+    margin: 0 auto 0 auto;
     margin-top: 80px;
 }
 
@@ -79,7 +80,32 @@ img{
 
 .bottom-container{
     background-color: black;
+
+
     
+}
+.container{
+    background-color: black;
+}
+
+.about-me-text-table{
+    margin: 0 auto;
+    width: 65%;
+    margin-top: 100px;
+}
+
+.Aboutme{
+    color: red;
+
+}
+
+.about-me-text{
+    text-align: left;
+}
+
+.APlusLogo{
+    height: 120px;
+    width: 120px;
 }
 
 .copyright{
@@ -87,9 +113,11 @@ img{
     font-size: 0.75rem;
 }
 
+
 .Motto{
     position: absolute;
     bottom: 55%;
+    display: inline;
     color: #f70000;
     font-family: 'Sacamento', cursive;
     font-size: 1.2rem;
@@ -146,10 +174,6 @@ img{
     margin-bottom: 0px;
 }
 
-.Aboutme{
-    color: red;
-}
-
 
 .network-image{
     float: left;
@@ -170,8 +194,10 @@ img{
 }
 
 .exp-text{
-    text-align: auto;
     margin-left: 200px;
+    text-align: left;
+    width: 65%;
+
     
 }
 
@@ -179,6 +205,8 @@ img{
     text-align: left;
     line-height: 2;
     margin-right: 200px;
+    width: 65%;
+
     
 }
 
@@ -195,12 +223,6 @@ img{
 }
 
 
-.APlusLogo{
-    height: 120px;
-    width: 120px;
-}
-
-
 
 .pro{
     text-decoration: underline;
@@ -213,8 +235,20 @@ img{
     position: absolute;
 }
 
+#top-nav-bar{
+    background-color: black;
+}
+
 
 #Contact-Message-Box{
     height: 399px;
     width: 989px;
+}
+
+#footer-link{
+    margin-top: 20px;
+}
+
+#site-contact{
+    width: 100%;
 }
