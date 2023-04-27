@@ -95,13 +95,17 @@ a:hover {
 .skills-goals {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
     text-align: center;
     padding-top: 10%;
-    color: #fff;
+    color: #F9E2AF;
     background-color: #13306b;
     border-left: solid;
   
+}
+
+
+.skills-table {
+    margin: 0 auto;
 }
 
 
